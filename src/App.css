@@ -1,0 +1,21 @@
+h1 {
+  color: blue;
+  background-color: pink;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+}
+button {
+  color: blueviolet;
+  background-color: aqua;
+  border-color: black;
+  border-radius: 0%;
+  margin: 5px;
+}
+.har {
+  align-items: center;
+  align-content: center;
+  padding-right: 0%;
+  border-radius: 1%;
+  flex-wrap: wrap;
+}
